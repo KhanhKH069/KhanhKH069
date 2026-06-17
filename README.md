@@ -17,7 +17,6 @@ Systems & Specialized Areas: Edge AI, AIoT, Motion Tracking, and UAV Systems.
 
 🚀 Featured Projects:
 
-🚀 Featured Projects:
 🎙️ Paraline MSAgent: A low-latency on-premise speech interpretation system featuring bidirectional real-time streaming pipelines over WebSockets for multilingual meeting support.  
 🌊 FloodSOS: An AI-powered flood rescue coordination platform that explores ML-based flood forecasting pipelines using real-time weather data integration.  
 💼 Paraline HR AI Agent: A multi-agent HR automation system that features AI-assisted CV screening and a RAG-powered HR chatbot for internal policy retrieval.  
