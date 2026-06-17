@@ -4,27 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Systems Engineer
 -----------
 
-👋 Hi there! I'm a sophomore CS student at PTIT.
+👋 Hi there! I'm an AI Systems Engineer and a sophomore Computer Science student at PTIT.
 
-I'm a passionate developer who loves building intelligent systems and highly practical applications. My current research focus lies in Applied AI (LLMs, RAG, AIoT), combined with Full-stack / Mobile Development.
+I am currently an undergraduate research assistant at ICN Lab with a strong focus on AI systems engineering. My core research interests include NLP, Speech AI, Edge Intelligence, Multi-Agent LLM Systems, and AIoT. I have hands-on experience building end-to-end AI pipelines for real-world applications, including real-time speech systems and retrieval-augmented generation (RAG) platforms.
 
 🛠 Tech Stack & Skills:
 
-Languages: Python, C++, JavaScript/TypeScript, Dart.
-
-AI/Data: LLMs, RAG Pipelines, TinyML.
-
-Backend & DB: Node.js, FastAPI
-
-Frontend & Mobile: Flutter, Web HTML/CSS, Next.js
+AI & Machine Learning: NLP, Speech AI (ASR/TTS), RAG, Multi-Agent Systems, PyTorch, and Scikit-learn.  
+Backend & Infrastructure: FastAPI, Docker, WebSockets, PostgreSQL, MongoDB, LangChain, and LangGraph.  
+Software Development: Python, TypeScript, Node.js, Flutter, and Next.js.  
+Systems & Specialized Areas: Edge AI, AIoT, Motion Tracking, and UAV Systems.  
 
 🚀 Featured Projects:
 
-🌱 Agri-GenAI: A research project applying GenAI and UAVs for agricultural image diagnosis.
-
-🌊 FloodSOS-Complete: A cross-platform emergency warning and support application (built with Flutter).
-
-⚙️ RAG Pipelines: Hands-on experience building and optimizing information retrieval systems for enterprise use cases.
+🚀 Featured Projects:
+🎙️ Paraline MSAgent: A low-latency on-premise speech interpretation system featuring bidirectional real-time streaming pipelines over WebSockets for multilingual meeting support.  
+🌊 FloodSOS: An AI-powered flood rescue coordination platform that explores ML-based flood forecasting pipelines using real-time weather data integration.  
+💼 Paraline HR AI Agent: A multi-agent HR automation system that features AI-assisted CV screening and a RAG-powered HR chatbot for internal policy retrieval.  
+🏢 Hatarake!: An AI-powered job registration and CRM platform that utilizes an AI Vision OCR pipeline to extract data from Japanese Residence Cards.  
 
 I am always looking for internship opportunities and am eager to collaborate on open-source projects or join AI research labs.
 
